@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\DOMAIN.csproj|c:\\users\\g\u00FClcan\\onedrive\\desktop\\udemy projeler\\kutuphaneotomasyonu4\\entity\\odunckitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\DOMAIN.csproj|solutionrelative:entity\\odunckitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\DOMAIN.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\entity\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\DOMAIN.csproj|solutionrelative:entity\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\DOMAIN.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\entity\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\DOMAIN.csproj|solutionrelative:entity\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A9A271-C35A-427C-8DC3-CE6EEF37B7FD}|BLL\\BLL.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\bll\\odunckitapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A9A271-C35A-427C-8DC3-CE6EEF37B7FD}|BLL\\BLL.csproj|solutionrelative:bll\\odunckitapbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A9A271-C35A-427C-8DC3-CE6EEF37B7FD}|BLL\\BLL.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\bll\\kullanicilarbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A9A271-C35A-427C-8DC3-CE6EEF37B7FD}|BLL\\BLL.csproj|solutionrelative:bll\\kullanicilarbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A9A271-C35A-427C-8DC3-CE6EEF37B7FD}|BLL\\BLL.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\bll\\kitaplarbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A9A271-C35A-427C-8DC3-CE6EEF37B7FD}|BLL\\BLL.csproj|solutionrelative:bll\\kitaplarbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE6E0FB-BFB0-4544-84B0-2EE82B291BCE}|DALL\\DALL.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\dall\\odunckitapdall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE6E0FB-BFB0-4544-84B0-2EE82B291BCE}|DALL\\DALL.csproj|solutionrelative:dall\\odunckitapdall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE6E0FB-BFB0-4544-84B0-2EE82B291BCE}|DALL\\DALL.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\dall\\kullanicilardall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE6E0FB-BFB0-4544-84B0-2EE82B291BCE}|DALL\\DALL.csproj|solutionrelative:dall\\kullanicilardall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE6E0FB-BFB0-4544-84B0-2EE82B291BCE}|DALL\\DALL.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\dall\\kitaplardall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE6E0FB-BFB0-4544-84B0-2EE82B291BCE}|DALL\\DALL.csproj|solutionrelative:dall\\kitaplardall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE6E0FB-BFB0-4544-84B0-2EE82B291BCE}|DALL\\DALL.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\dall\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE6E0FB-BFB0-4544-84B0-2EE82B291BCE}|DALL\\DALL.csproj|solutionrelative:dall\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\uckitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\uckitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\ucanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\ucanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\formgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\Entity.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\entity\\odunckitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\Entity.csproj|solutionrelative:entity\\odunckitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\Entity.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\entity\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\Entity.csproj|solutionrelative:entity\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\Entity.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\entity\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8D344-1863-44C1-9871-22009A0367B0}|Entity\\Entity.csproj|solutionrelative:entity\\kitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\ucodunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\ucodunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\ucodunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\ucodunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\uckitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\uckitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\uckitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\uckitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\uckitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\uckitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\uciade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\uciade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\uciade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\uciade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\kutuphaneotomasyonu4\\usercontrols\\ucanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A82991-28CB-4E83-961C-EE048AF3C0EC}|KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4.csproj|solutionrelative:kutuphaneotomasyonu4\\usercontrols\\ucanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "oduncKitapDALL.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\DALL\\oduncKitapDALL.cs",
+              "RelativeDocumentMoniker": "DALL\\oduncKitapDALL.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\DALL\\oduncKitapDALL.cs",
+              "RelativeToolTip": "DALL\\oduncKitapDALL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:38:16.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kitaplarBLL.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\BLL\\kitaplarBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\kitaplarBLL.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\BLL\\kitaplarBLL.cs",
+              "RelativeToolTip": "BLL\\kitaplarBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:38:04.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kullanicilarBLL.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\BLL\\kullanicilarBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\kullanicilarBLL.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\BLL\\kullanicilarBLL.cs",
+              "RelativeToolTip": "BLL\\kullanicilarBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:44:02.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "oduncKitapBLL.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\BLL\\oduncKitapBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\oduncKitapBLL.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\BLL\\oduncKitapBLL.cs",
+              "RelativeToolTip": "BLL\\oduncKitapBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:38:07.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\kitaplar.cs",
+              "RelativeDocumentMoniker": "Entity\\kitaplar.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\kitaplar.cs",
+              "RelativeToolTip": "Entity\\kitaplar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:26:38.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kullanicilar.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\kullanicilar.cs",
+              "RelativeDocumentMoniker": "Entity\\kullanicilar.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\kullanicilar.cs",
+              "RelativeToolTip": "Entity\\kullanicilar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:56:51.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "oduncKitap.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\oduncKitap.cs",
+              "RelativeDocumentMoniker": "Entity\\oduncKitap.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\oduncKitap.cs",
+              "RelativeToolTip": "Entity\\oduncKitap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:56:53.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kullanicilarDALL.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\DALL\\kullanicilarDALL.cs",
+              "RelativeDocumentMoniker": "DALL\\kullanicilarDALL.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\DALL\\kullanicilarDALL.cs",
+              "RelativeToolTip": "DALL\\kullanicilarDALL.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:42:51.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kitaplarDALL.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\DALL\\kitaplarDALL.cs",
+              "RelativeDocumentMoniker": "DALL\\kitaplarDALL.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\DALL\\kitaplarDALL.cs",
+              "RelativeToolTip": "DALL\\kitaplarDALL.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:38:13.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\DALL\\DbBaglanti.cs",
+              "RelativeDocumentMoniker": "DALL\\DbBaglanti.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\DALL\\DbBaglanti.cs",
+              "RelativeToolTip": "DALL\\DbBaglanti.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:38:11.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\FormGiris.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\FormGiris.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\FormGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\FormGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:24:10.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UCKitapEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCKitapEkle.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCKitapEkle.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCKitapEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCKitapEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:10:17.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\FrmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\FrmAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\FrmAnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\FrmAnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T10:14:48.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UCAnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCAnaSayfa.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCAnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCAnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:10:03.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormGiris.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\FormGiris.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\FormGiris.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\FormGiris.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\FormGiris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T10:12:30.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "oduncKitap.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\oduncKitap.cs",
+              "RelativeDocumentMoniker": "Entity\\oduncKitap.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\oduncKitap.cs",
+              "RelativeToolTip": "Entity\\oduncKitap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:38:24.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "kullanicilar.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\kullanicilar.cs",
+              "RelativeDocumentMoniker": "Entity\\kullanicilar.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\kullanicilar.cs",
+              "RelativeToolTip": "Entity\\kullanicilar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:38:23.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "kitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\kitaplar.cs",
+              "RelativeDocumentMoniker": "Entity\\kitaplar.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\Entity\\kitaplar.cs",
+              "RelativeToolTip": "Entity\\kitaplar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:38:21.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\FrmAnaSayfa.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\FrmAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\FrmAnaSayfa.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\FrmAnaSayfa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:37:56.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\Program.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\Program.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\Program.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:51:37.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UCOdunc.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCOdunc.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCOdunc.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCOdunc.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCOdunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:06:01.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UCOdunc.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCOdunc.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCOdunc.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCOdunc.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCOdunc.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:37:40.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UCKitapEkle.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCKitapEkle.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCKitapEkle.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCKitapEkle.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCKitapEkle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:41:56.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UCIade.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCIade.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCIade.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCIade.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCIade.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:19:18.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UCAnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCAnaSayfa.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCAnaSayfa.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCAnaSayfa.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCAnaSayfa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:37:20.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UCKitaplar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCKitaplar.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCKitaplar.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCKitaplar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCKitaplar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:54:52.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UCKitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCKitaplar.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCKitaplar.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCKitaplar.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCKitaplar.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:05:12.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UCIade.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCIade.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonu4\\UserControls\\UCIade.cs",
+              "ToolTip": "C:\\Users\\G\u00FClcan\\OneDrive\\Desktop\\udemy projeler\\KutuphaneOtomasyonu4\\KutuphaneOtomasyonu4\\UserControls\\UCIade.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonu4\\UserControls\\UCIade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:01:34.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

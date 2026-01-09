@@ -1,0 +1,15 @@
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\DALL.dll
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\DALL.pdb
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\Entity.dll
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\MySql.Data.dll
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\System.Memory.dll
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\System.Buffers.dll
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\Entity.pdb
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\bin\Debug\MySql.Data.xml
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\obj\Debug\DALL.csproj.AssemblyReference.cache
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\obj\Debug\DALL.csproj.CoreCompileInputs.cache
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\obj\Debug\DALL.csproj.Up2Date
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\obj\Debug\DALL.dll
+C:\Users\Gülcan\OneDrive\Desktop\udemy projeler\KutuphaneOtomasyonu4\DALL\obj\Debug\DALL.pdb
