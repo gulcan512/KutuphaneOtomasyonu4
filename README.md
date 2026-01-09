@@ -1,46 +1,42 @@
 # Kütüphane Otomasyonu
 
-Bu proje, N Katmanlı Mimari (N-Tier Architecture) kullanılarak
-C# dili ile geliştirilmiş bir Kütüphane Otomasyonu uygulamasıdır.
-Amaç, kütüphane yönetim süreçlerini dijital ortamda düzenli ve
-sürdürülebilir bir şekilde yönetmektir.
+Bu proje, N-Katmanlı Mimari kullanılarak geliştirilmiş bir C# Windows Forms
+Uygulamasıdır. Amaç, kütüphane yönetim süreçlerini dijital ortamda kolaylaştırmaktır.
 
-## Proje Amacı
-- Kitapların sisteme eklenmesi
-- Kullanıcıların kitap ödünç alabilmesi
-- Veritabanı işlemlerinin katmanlı mimari ile yönetilmesi
-- Daha okunabilir, sürdürülebilir ve genişletilebilir bir yapı oluşturmak
+## 📌 Proje Özellikleri
+- Kitap ekleme / silme / güncelleme
+- Üye işlemleri
+- Ödünç alma / iade
+- Arama işlemleri
+- Katmanlı mimari yapısı (Entity, DAL, BLL, UI)
 
-## Kullanılan Teknolojiler
-- C#
-- .NET
+## 🚀 Kullanılan Teknolojiler
+- C# (.NET Framework)
+- Windows Forms
 - SQL Server
+- Entity Layer
 - Visual Studio 2022
-- Git & GitHub
 
-## Mimari Yapı (N Katmanlı Mimari)
+## 🧩 Proje Yapısı
+- **Entity:** Veritabanı tablolarını temsil eden sınıflar  
+- **DAL:** Veritabanı işlemleri  
+- **BLL:** İş kuralları ve kontrol  
+- **UI:** Kullanıcı arayüzü (WinForms)
 
-### Entity Katmanı
-- Veritabanı tablolarını temsil eden sınıflar bulunur.
-- Sadece veri taşımakla görevlidir.
+## 🛠️ Nasıl Çalıştırılır
+1. Bu repoyu klonlayın
+2. Visual Studio 2022 ile açın
+3. Veritabanı bağlantı ayarlarını yapın
+4. Uygulamayı çalıştırın
 
-### DAL (Data Access Layer)
-- Veritabanı işlemleri bu katmanda yapılır.
-- CRUD (Create, Read, Update, Delete) işlemleri yer alır.
+## 📞 İletişim
+Herhangi bir sorunuz olursa:
+- Ad: Gülcan Uygur
+- Mail: glcnygr555@gmail.com
 
-### BLL (Business Logic Layer)
-- İş kuralları bu katmanda uygulanır.
-- DAL ile UI arasındaki kontrol katmanıdır.
+  ## 🎥 Tanıtım Videosu
+Projenin tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+🔗 https://youtu.be/-i9nmPSM9Yo?si=I-ASD2VeT1C5s4cy
 
-### UI (Kullanıcı Arayüzü)
-- Kullanıcının uygulama ile etkileşime geçtiği katmandır.
-- WinForms arayüzü kullanılmıştır.
 
-## Veritabanı Yapısı
-- Kullanıcılar
-- Kitaplar
-- Ödünç Kitaplar
-
-## Sonuç
-Bu proje, N katmanlı mimari yapısının anlaşılması ve
-gerçek bir senaryo üzerinde uygulanması amacıyla geliştirilmiştir.
+  
