@@ -34,7 +34,7 @@ Herhangi bir sorunuz olursa:
 - Ad: Gülcan Uygur
 - Mail: glcnygr555@gmail.com
 
-  ## 🎥 Tanıtım Videosu
+## 🎥 Tanıtım Videosu
 Projenin tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 🔗 https://youtu.be/-i9nmPSM9Yo?si=I-ASD2VeT1C5s4cy
 
